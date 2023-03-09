@@ -22,9 +22,9 @@ Teknofest'in yayınlamış olduğu [Haberleşme Dökümanı](https://teknofest.o
 - [x] Takımlardan toplanan verilerin kaydedilmesi
 - [ ] Gönderilen takım verilerin gerçekçi olması
 - [ ] Client kütüphanesi
-- [ ]kilitlenme eklenecek
-- [ ]QR kod eklenecek
-- [ ]Optimizasyon yapılacak
+- [ ] kilitlenme eklenecek
+- [ ] QR kod eklenecek
+- [ ] Optimizasyon yapılacak
 
 ## Eklenenler
 - Kullanıcıları listeleme
