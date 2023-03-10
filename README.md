@@ -15,15 +15,20 @@ Teknofest'in yayınlamış olduğu [Haberleşme Dökümanı](https://teknofest.o
 
 ## ToDo List
 
-- [ ] Oturum Açma
-- [ ] Oturum Kapama
-- [ ] Hata ve onay kodlarının kontrolü
-- [ ] Zaman farklarının hesaplanarak gönderilmesi
-- [ ] Takımlardan toplanan verilerin kaydedilmesi
+- [x] Oturum Açma
+- [x] Oturum Kapama
+- [x] Hata ve onay kodlarının kontrolü
+- [x] Zaman farklarının hesaplanarak gönderilmesi
+- [x] Takımlardan toplanan verilerin kaydedilmesi
 - [ ] Gönderilen takım verilerin gerçekçi olması
 - [ ] Client kütüphanesi
+- [ ] kilitlenme eklenecek
+- [ ] QR kod eklenecek
+- [ ] Optimizasyon yapılacak
 
-
+## Eklenenler
+- Kullanıcıları listeleme
+- json dosyasından kullanıcı kontrolü
 ## Geliştirme
 Geliştirme önerilerinizi için Issues başlığından bana iletebilirsiniz. Repoyu forklamaktan çekinmeyin. 
 
